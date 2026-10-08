@@ -1,0 +1,23 @@
+
+body{
+background-color: #E0FFFF;
+}
+img{ 
+border-radius: 50%;
+}
+p.a{
+text-align: center;
+font-family:Algerian;
+font-size:30px;
+}
+hr{
+line-height: 50%;
+}
+p.small-text{
+font-family: Arial Black;
+font-size:25px;
+}
+p.large-text{
+font-family: Arial;
+font-size:15px;
+}
